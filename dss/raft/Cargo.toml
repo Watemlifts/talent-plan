@@ -15,7 +15,7 @@ publish = false
 labrpc = { path = "../labrpc" }
 labcodec = { path = "../labcodec" }
 linearizability = { path = "../linearizability"}
-prost = "0.5"
+prost = "0.6"
 prost-derive = "0.5"
 bytes = "0.4.7"
 rand = "0.4"
